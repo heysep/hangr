@@ -8,4 +8,4 @@
 /spec/reports/
 /tmp/
 db/*.db
-
+*.DS_Store
